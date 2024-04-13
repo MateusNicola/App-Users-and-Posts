@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">App</string>
+    <string name="main_message">Welcome</string>
+    <string name="btn_users">Users</string>
+    <string name="btn_posts">Posts</string>
+    <string name="show_comments">Show comments</string>
+</resources>
